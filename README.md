@@ -21,9 +21,13 @@ URL: https://colab.research.google.com/drive/15ZrMqPc1lTKIb_Nq0wYnc41y0YyszV3F?u
 
 
 ## Screenshots
-![EDA  Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![FA  Screenshot](./graph.png)
 
-![EDA 2 Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![FA 2 Screenshot](./fad.png)
+
+![FA 3 Screenshot](./fad2.png)
+
+![FA 4 Screenshot](./fad3.png)
 
 
 ## Requirements
