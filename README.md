@@ -1,5 +1,5 @@
 
-![Google Collab Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Google Collab Screenshot](./googlecollablogo.png)
 
 
 # Fraud Analysis with Credit Card Dataset using Machine Learning
@@ -17,7 +17,7 @@ The dataset can be obtained from source link. Please download the dataset and pl
 
 
 ## Google Colab
-URL: https://colab.research.google.com/drive/1ItSk1yvWFkg7j3i_lO2jIValhJwHn08Y?usp=sharing
+URL: https://colab.research.google.com/drive/15ZrMqPc1lTKIb_Nq0wYnc41y0YyszV3F?usp=sharing
 
 
 ## Screenshots
