@@ -3,7 +3,7 @@
 
 
 # Fraud Analysis with Credit Card Dataset using Machine Learning
-This project aims to perform fraud analysis on a credit card dataset using machine learning techniques. The goal is to develop a model that can accurately classify transactions as either fraudulent or legitimate, based on the provided features for the client abhishek ganguley.
+This project aims to perform fraud analysis on a credit card dataset using machine learning techniques. The goal is to develop a model that can accurately classify transactions as either fraudulent or legitimate, based on the provided features for the client Abhishek Ganguly.
 
 ## Objective
 The main objective of this project is to develop a machine learning model that can accurately classify credit card transactions as either fraudulent or legitimate. By analyzing a credit card dataset, we aim to identify patterns and indicators of fraudulent activity and build a model capable of detecting and flagging potential fraud in real-time.
